@@ -6,7 +6,7 @@ body {
   justify-content: center;
 }
 p {
-  font-size: 20px;
+  font-size: 40px;
 }
 .container {
   padding: 50px 40px;
@@ -30,7 +30,7 @@ p {
   margin-right: 10px;
 }
 .result {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
   margin-top: 50px;
   color: #1e90ff;
@@ -54,7 +54,7 @@ p {
 
 @media (max-width: 600px) {
   p {
-    font-size: 25px;
+    font-size: 27px;
   }
   .container {
     padding: 50px 40px;
